@@ -1,1 +1,8 @@
 
+# YouTube Video Downloader
+A Python script to download YouTube videos using the `yt-dlp` library.
+
+## Features
+- Downloads videos in the best available quality.
+- Handles errors for invalid URLs or connection issues.
+- Automatically saves downloaded files with their original YouTube titles.
